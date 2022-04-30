@@ -1,4 +1,4 @@
-# HandShakeRobot-MQL4 2022
+# HandShakeRobot-MQL4 2022 v 1.0
                             Smart trading expert in MQL4 (Metatrader 4) (developed by an accredited investor)
 ![alt text](https://github.com/Rockkley/HandShakeRobot-MQL4/blob/main/handshakerobot.png)
 
